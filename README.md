@@ -1,2 +1,5 @@
 # UTN-TUPaD-Programacion1
-mi trabajo practico de programacion
+## mis datos
+- Gomez Leonardo
+- comision 6
+- Prof. Flor Gubiotti
